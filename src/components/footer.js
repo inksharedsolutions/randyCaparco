@@ -68,7 +68,7 @@ const Footer = ()=>{
                             <li>
                                 <a          
                                     target="_blank"
-                                    href="https://www.goodreads.com/book/show/57997959-guide-to-investing-in-stocks-bonds-etfs-and-mutual-funds"
+                                    href="https://www.goodreads.com/user/show/89077099-stratton-press"
                                     rel="noreferrer"
                                     >
 
