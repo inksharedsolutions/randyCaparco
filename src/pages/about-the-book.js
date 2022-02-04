@@ -6,7 +6,7 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../../static/books/oddtwin.jpg'
-import Book2 from '../../static/books/odd-twins-2.png'
+import Book2 from '../../static/books/odd-twins-ii.png'
 
 
 
