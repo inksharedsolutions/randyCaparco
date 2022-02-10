@@ -76,13 +76,17 @@ const ATB = (props)=>{
                                     content:
                                     `
                                         <p>
-                                            Life is full of mysteries, and we limit our thoughts to what we believe sounds right and reasonable. Our minds control our lives based on our past experiences, and so our ability to expand is limited. New incoming information is handled based on the past, and so we constantly live in the past.
-                                        
-                                            This writing will take you beyond what you believe and allow you to experience an event that seems so unbelievable that it will have you researching to find out if it is possible.
-                                        
-                                            The characters are depicted in such a way that makes them bring this event to real life. They are believable, and as the events unfold, it will be mind-boggling. It will expand your ability to allow for the possibility of accepting new information and possibilities.
-                                        
-                                            This writing depicts a tale of woe and the trauma that leads to an unbelievable conclusion that will leave the reader with many wonders and thoughts.
+                                            In the continuing saga, the ODD TWINS will develop and their utmost secrets will be revealed.
+                                            The mysteries of life will be highlighted and the journey into the unknown will take the reader
+                                            to an area that is truly unchartered. The child care center and its inhabitants will be exposed
+                                            and its primary purpose will be revealed. The fascination with the characters in book one will
+                                            continue and the reader will surely becomes fixated with th unusual and intriguing characters
+                                            in book two. Police work, espionage, love, sex and the journey into the occult, will baffle
+                                            the mind and keep the reader in suspense throughout looking for answers. Take the journey
+                                            and enjoy this unusual tale with unusual and somewhat charismatic characters that will have you
+                                            yearning for more.
+
+                                            ENJOY THE ROLLER COASTER RIDE! CONTINUE THE JOURNEY!
                                         </p>
                                     `,
 
